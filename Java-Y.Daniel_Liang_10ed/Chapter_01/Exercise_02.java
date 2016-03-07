@@ -1,10 +1,10 @@
 /*
-	1.2 (Display three message) Write a program that displays "Welcome to Java" five times.
+*	1.2 (Display three message) Write a program that displays "Welcome to Java" five times.
 */
 
 /*
-	@author: Jose Escobar Mejia
-	@date: March 06, 2016
+*	@author: Jose Escobar Mejia
+*	@date: March 06, 2016
 */
 
 public class Problem_2 {

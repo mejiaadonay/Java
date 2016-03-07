@@ -1,11 +1,11 @@
 /*
-	1.1 (Display three message) Write a program that displays "Welcome to Java", "Welcome to Computer Science",
-	and "Programming is fun".
+*	1.1 (Display three message) Write a program that displays "Welcome to Java", "Welcome to Computer Science",
+*	and "Programming is fun".
 */
 
 /*
-	@author: Jose Escobar Mejia
-	@date: March 06, 2016
+*	@author: Jose Escobar Mejia
+*	@date: March 06, 2016
 */
 
 public class Problem_1 {
