@@ -1,16 +1,14 @@
 /*
-*	@author: Jose Escobar Mejia
-*	@date: March 10, 2016
+*      (Display a pattern) Write a program that displays the following pattern:
+*
+*          J    A  V     V  A
+*          J   A A  V   V  A A
+*       J  J  AAAAA  V V  AAAAA
+*        JJ  A     A  V  A     A
+*
+*		@author: Jose Escobar Mejia
+*		@date: March 10, 2016
 */
-
-/**
- *      (Display a pattern) Write a program that displays the following pattern:
- *
- *          J    A  V     V  A
- *          J   A A  V   V  A A
- *       J  J  AAAAA  V V  AAAAA
- *        JJ  A     A  V  A     A
- */
 
 public class Exercise_03 {
     public static void main(String[] args) {
