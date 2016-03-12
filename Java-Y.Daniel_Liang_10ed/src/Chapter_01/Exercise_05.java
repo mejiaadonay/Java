@@ -3,7 +3,6 @@
 *
 *	 9.5 X 4.5 - 2.5 X 3 / 45.5 - 3.5
 *                            
-*
 *		@author: Jose Escobar Mejia
 *		@date: March 12, 2016
 */
