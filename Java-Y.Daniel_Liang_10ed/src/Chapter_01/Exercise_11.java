@@ -31,10 +31,10 @@ public class Exercise_11 {
         System.out.println("The current population is " + (int)currentPopulation);
         System.out.println("The population growth per year is " + (int)currentPopulation);
  
-        for (int i = 1; i <= 5; i++) {
-            currentPopulation += growthPerYear;
-            System.out.println("The Population in year " + i + " = " + (int)currentPopulation);
-        }
+	        for (int i = 1; i <= 5; i++) {
+	            currentPopulation += growthPerYear;
+	            System.out.println("The Population in year " + i + " = " + (int)currentPopulation);
+	        }
 
 	}
 
