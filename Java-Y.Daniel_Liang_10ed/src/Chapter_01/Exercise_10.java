@@ -1,8 +1,8 @@
 /**
 *
-*      (Average speed in miles) Assume a runner runs 14 kilometers in 45 minutes and 30 seconds. 
+*	(Average speed in miles) Assume a runner runs 14 kilometers in 45 minutes and 30 seconds. 
 *	    Write a program that displays the average speed in miles per hour.
-*	   (Nete that 1 mile is 1.6 kilometers)
+*	(Note that 1 mile is 1.6 kilometers)
 *
 *	@author: Jose Escobar Mejia
 *	@date: March 14, 2016
