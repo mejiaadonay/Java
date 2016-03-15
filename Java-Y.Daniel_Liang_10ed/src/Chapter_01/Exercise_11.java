@@ -35,6 +35,6 @@
             currentPopulation += growthPerYear;
             System.out.println("The Population in year " + i + " = " + (int)currentPopulation);
         }
- 	}
- }
+	}
+}
  
