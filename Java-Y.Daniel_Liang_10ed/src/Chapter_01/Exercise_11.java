@@ -16,7 +16,7 @@
 *	@date: March 15, 2016
 */
 
- public class Exercise_11 {
+public class Exercise_11 {
  	public static void main(String[] args) {
 
  		double currentPopulation = 312032486;
@@ -37,6 +37,6 @@
         }
 
 	}
-	
+
 }
  
